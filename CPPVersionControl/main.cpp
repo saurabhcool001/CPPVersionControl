@@ -6,6 +6,8 @@ void greet()
 	std::cout << "Grettings!!!\n\n";
 }
 
+void conflict();
+
 int main()
 {
 	greet();
