@@ -6,6 +6,8 @@ void greet()
 	std::cout << "Grettings!!!\n\n";
 }
 
+void solution();
+
 int main()
 {
 	greet();
